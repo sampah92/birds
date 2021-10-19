@@ -148,7 +148,7 @@ disableKinds = ["taxonomy", "term","RSS"]
 
   [[params.social]]
     name = "tokopedia"
-    url  = "sampah92@xmpp.jp"
+    url  = "https://tokopedia.link/birdeyes"
 
   [[params.social]]
     name = "shopee"
