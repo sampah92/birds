@@ -58,7 +58,7 @@ disableKinds = ["taxonomy", "term","RSS"]
   keywords = ""
   images = [""]
 
-  homeSubtitle = "Sebuah catatan berbentuk Webstatic"
+  homeSubtitle = "Mencari Barang Branded?"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   #
@@ -154,9 +154,9 @@ disableKinds = ["taxonomy", "term","RSS"]
     name = "shopee"
     url  = "https://shopee.co.id/birdseye.id"
 
-  [[params.social]]
-    name = "bukalapak"
-    url  = "sampah92@xmpp.jp"
+ ## [[params.social]]
+   # name = "bukalapak"
+   #url  = "sampah92@xmpp.jp"
     
 
 [languages]
